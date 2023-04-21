@@ -49,24 +49,3 @@ iterador =generadoraContraseña(12)
 print(next(iterador))
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
